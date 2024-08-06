@@ -58,8 +58,8 @@
 
 <br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ✍️ Random Quote
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?layout=socrates&quoteCategory=programming&theme=tokyonight)
 <br>
 
 
