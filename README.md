@@ -14,7 +14,7 @@
 
 
 ## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3RrZHRpdW9rNmV5N3NiY3J1bnFyejZtNnV5bmlwYmFyZHIxZXQ5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif" width = 450px></picture>
+<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3RrZHRpdW9rNmV5N3NiY3J1bnFyejZtNnV5bmlwYmFyZHIxZXQ5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif" width = 370px></picture>
 
 <br>
 
