@@ -48,7 +48,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JayGaba&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=JayGaba&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&PAT_1" alt="GitHub Stats" style="display: inline-block;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayGaba&theme=tokyonight&hide_border=false" alt="GitHub Streak" style="display: inline-block;">
 </div>
 <br/>
