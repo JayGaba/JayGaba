@@ -24,7 +24,7 @@
 - 👀 I’m a CyberSecurity Enthusiast.
 - 🌱 I’m currently learning Web Security & Python Scripting.
 - 🤝 I’m looking to collaborate on cybersecurity projects.
-- 📝 I write articles on [Medium](https://medium.com/@jayeshgaba).
+- 📝 I write articles on [Medium](https://medium.com/@jayeshgaba01).
 - Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/jayesh-gaba).
 - Learning new technologies everyday to become better!
  
